@@ -89,10 +89,7 @@ Zte                90     52    28        10          0            0
 
 #    Up coming Questions    
 
- ### 1 Which market has the highest number of available mobile phones?
- ### 2 Which mobile phone has the longest lifespan based on its parts?
- ### 3 Which mobile phones are available at a low price while being brand new?
- ### 4 Which mobile phones are risky to purchase in this market?
+
  
 ## License
 This project is open-source and available under the MIT License.
